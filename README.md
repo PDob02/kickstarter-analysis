@@ -18,6 +18,8 @@ https://raw.githubusercontent.com/PDob02/kickstarter-analysis/main/Outcomes%20Ba
 ### Analysis of Outcomes Based on Goals
 Another interesting piece of analysis that Louise tasked us with exploring is the Outcomes based on goals. The goal is defined as the funds requested before the Kickstarter project launches. This was a measure against the amount pledged. Based on the data some of the most successful campaigns took place at under $1000 to $5000. There was also a jump in success between 35,000 to 45,000 with sharply declining returns after that sans an outlier of two successful campaigns greater than 50,000.
 
+https://github.com/PDob02/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png
+
 ### Challenges and Difficulties Encountered
 Some of the difficulties encountered included an incomplete data set. We can always use more information to get more granular reporting. Also, there is room for human error as these excel workbooks are very large and can be corrupted or errors can be made when moving and filtering data. 
 
