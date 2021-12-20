@@ -13,12 +13,12 @@ This project is to find out information pertinent to Louse's the playwright's Ki
 ### Analysis of Outcomes Based on Launch Date
 Based on our analysis May was the best month to launch a project. This was followed by a similar yet not as prominent spike in June & July. April & August showed similar trends for success. Towards the end of the year, October, November & December, showed the least amount of success with October being the worst of the months for failure based on volume. December came in last for number of successful plays almost matched the number of failures. In other words, a December launch was close to a 50/50 chance of success or failure. 
 
-https://raw.githubusercontent.com/PDob02/kickstarter-analysis/main/Outcomes%20Based%20on%20Launch%20Date.png
+![This is an image](https://raw.githubusercontent.com/PDob02/kickstarter-analysis/main/Outcomes%20Based%20on%20Launch%20Date.png)
 
 ### Analysis of Outcomes Based on Goals
 Another interesting piece of analysis that Louise tasked us with exploring is the Outcomes based on goals. The goal is defined as the funds requested before the Kickstarter project launches. This was a measure against the amount pledged. Based on the data some of the most successful campaigns took place at under $1000 to $5000. There was also a jump in success between 35,000 to 45,000 with sharply declining returns after that sans an outlier of two successful campaigns greater than 50,000.
 
-https://github.com/PDob02/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png
+![This is an image](https://github.com/PDob02/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 Some of the difficulties encountered included an incomplete data set. We can always use more information to get more granular reporting. Also, there is room for human error as these excel workbooks are very large and can be corrupted or errors can be made when moving and filtering data. 
