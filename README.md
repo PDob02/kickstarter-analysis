@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-This project is to find out information pertinent to Louse's the playwright's Kickstarter goal. She is primarily interested in the outcomes based on launch date measured by month & outcome based on goal or number of dollars requested for each campaign. We analyzed over 4,000 data sets dating back to 2015 with plays, successful, failed, & canceled as some of our qualitative measures based on underlying data. With the help of our previous data analysis, Louise launched a successful play called "Fever" that came close to their fundraising goal in a few short months.
+This project is to find out information pertinent to Louise's the playwright's Kickstarter goal. She is primarily interested in the outcomes based on launch date measured by month & outcome based on goal or number of dollars requested for each campaign. We analyzed over 4,000 data sets dating back to 2015 with plays, successful, failed, & canceled as some of our qualitative measures based on underlying data. With the help of our previous data analysis, Louise launched a successful play called "Fever" that came close to their fundraising goal in a few short months.
 
 ### Purpose
 This project is to find out information pertinent to Louse's the playwright's Kickstarter goal. She is primarily interested in the outcomes based on launch date. In other words, when is the best month to launch a campaign? The second measure is success based on goal amount. We analyzed over 4,000 data sets dating back to 2015. 
